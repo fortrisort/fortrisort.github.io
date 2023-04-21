@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://fortrisort.github.io/sitemap.xml
